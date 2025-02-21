@@ -1,8 +1,8 @@
 {
-	"ip": "YOUR_SERVER_IP",
-	"port": "YOUR_SERVER_PORT",
+	"ip": "destroyedbydebilove.aternos.me:15946",
+	"port": "15946",
 	"version": "YOUR_SERVER_VERSION",
-	"username": "NoNameBot",
+	"username": "Ihosikbotiklovik",
 	"autonightskip": false,
 	"pi": 3.14159,
 	"moveinterval": 2,
